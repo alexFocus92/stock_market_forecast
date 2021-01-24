@@ -1,0 +1,1 @@
+yfinancefbprophet==0.7.1opencv-python==4.5.1.48

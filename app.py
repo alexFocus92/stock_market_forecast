@@ -4,8 +4,6 @@ import yfinance as yf
 import streamlit as st
 import pandas as pd
 from fbprophet import Prophet
-import cv2
-import numpy as np
 
 def update_tickers():
     df_list_0 = pd.read_html('https://topforeignstocks.com/foreign-adrs-list/the-full-list-of-spanish-adrs/')[0]

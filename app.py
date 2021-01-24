@@ -39,6 +39,8 @@ def main():
     if st.sidebar.button("Predict", key="predict"):
         #define the ticker symbol
         tickerSymbol = company_ticker
+        st.write("Wait 1 minute for the Results")
+        st.write("Making predictions")
 
         #get data on this ticker
         tickerData = yf.Ticker(tickerSymbol)

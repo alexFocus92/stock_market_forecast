@@ -1,1 +1,2 @@
-yfinancefbprophet==0.7.1
+yfinance
+fbprophet

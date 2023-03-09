@@ -3,7 +3,7 @@
 import yfinance as yf
 import streamlit as st
 import pandas as pd
-from fbprophet import Prophet
+from prophet import Prophet
 
 def update_tickers():
     df_list_0 = pd.read_html('https://topforeignstocks.com/foreign-adrs-list/the-full-list-of-spanish-adrs/')[0]
@@ -15,6 +15,7 @@ def update_tickers():
 
 def main():
     st.sidebar.title("Forecasting IBEX 35")
+
 
     # Convert the file to an opencv image.
 
@@ -52,7 +53,7 @@ def main():
 
         df = df.reset_index()
         df = df.rename(columns={'Date': 'ds', 'Close': 'y'})
-
+        df['ds'] = df['ds'].dt.tz_localize(None)
 
         m = Prophet(changepoint_prior_scale=changepoint_prior_scale,
                     changepoint_range=changepoint_range)
@@ -80,6 +81,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
 
 
 

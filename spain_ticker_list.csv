@@ -1,39 +1,37 @@
-S.No.,Name,Ticker,Exchange,Industry
+S.No.,Company Name,Ticker,Exchange,Industry
 1,Banco Bilbao Vizcaya Argentaria,BBVA,NYSE,Banks
 2,Banco Santander,SAN,NYSE,Banks
 3,Grifols,GRFS,NASDAQ,Pharma. & Biotech.
 4,Telefonica,TEF,NYSE,Fixed Line Telecom.
-1,Abengoa,ABGOY,,Alternative Energy
+1,Atrsmedia Corp,ATVDY,,Media
 2,Acerinox,ANIOY,,Indust.Metals&Mining
 3,ACS Activ de Construc y Servicios,ACSAY,,Construct.&Materials
 4,"Aena SME, S.A",ANYYY,,Travel & Leisure
 5,Amadeus IT,AMADY,,Support Services
-6,Atresmedia Corporacion De Medios,ATVDY,,Media
-7,Banco de Sabadell,BNDSY,,Banks
-8,Bankia,BNKXY,,Financial Services
-9,Bankinter,BKNIY,,Banks
-10,CaixaBank,CAIXY,,Banks
-11,Cellnex Telecom,CLLNY,,Media
-12,Distribuidora Internacional De Alimentacion-DIA,DIDAY,,General Retailers
-13,Ebro Foods,EBRPY,,Food Producers
-14,EDP Renovaveis,EDRVY,,Electricity
-15,eDreams ODIGEO,EDEMY,,Travel & Leisure
-16,Enagas,ENGGY,,"Gas,H20&Multiutility"
-17,Endesa,ELEZY,,Electricity
-18,Ferrovial,FRRVY,,Construct.&Materials
-19,Fomento de Construcciones y Contratas-FCC,FMOCY,,Construct.&Materials
-20,Grifols,GIKLY,,Pharma. & Biotech.
-21,Iberdrola,IBDRY,,Electricity
-22,Indra Sistemas,ISMAY,,Software&ComputerSvc
-23,Industria de Diseno Textil Inditex,IDEXY,,General Retailers
-24,International Consolidated Airlines,ICAGY,,Travel & Leisure
-25,Mapfre,MPFRY,,Nonlife Insurance
-26,Mediaset Espana Communicacion,GETVY,,Media
-27,Merlin Properties,MPTYY,,Real Estate Inv&Serv
-28,"Naturgy Energy Group, S.A",GASNY,,"Gas,H20&Multiutility"
-29,Prosegur Cash,PGUCY,,Support Services
-30,Red Electrica,RDEIY,,Electricity
-31,Repsol,REPYY,,Oil & Gas Producers
-32,Sacyr,SYRVY,,Construct.&Materials
-33,Siemens Gamesa Renewable Energy,GCTAY,,Alternative Energy
-34,Tecnicas Reunidas,TNISY,,Industrial Engineer.
+6,Banco de Sabadell,BNDSY,,Banks
+7,Bankinter,BKNIY,,Banks
+8,CaixaBank,CAIXY,,Banks
+9,Cellnex Telecom,CLLNY,,Media
+10,Ebro Foods,EBRPY,,Food Producers
+11,EDP Renovaveis,EDRVY,,Electricity
+12,eDreams ODIGEO,EDEMY,,Travel & Leisure
+13,Enagas,ENGGY,,"Gas,H20&Multiutility"
+14,Endesa,ELEZY,,Electricity
+15,Ferrovial,FRRVY,,Construct.&Materials
+16,Fluidra,FLDAY,,Leisure Goods
+17,Fomento de Construcciones y Contratas-FCC,FMOCY,,Construct.&Materials
+18,Grifols,GIKLY,,Pharma. & Biotech.
+19,Iberdrola,IBDRY,,Electricity
+20,Indra Sistemas,ISMAY,,Software&ComputerSvc
+21,Industria de Diseno Textil Inditex,IDEXY,,General Retailers
+22,International Consolidated Airlines,ICAGY,,Travel & Leisure
+23,Mapfre,MPFRY,,Nonlife Insurance
+24,Mediaset Espana Communicacion,GETVY,,Media
+25,Merlin Properties,MPTYY,,Real Estate Inv&Serv
+26,"Naturgy Energy Group, S.A",GASNY,,"Gas,H20&Multiutility"
+27,Prosegur Cash,PGUCY,,Support Services
+28,Red Electrica,RDEIY,,Electricity
+29,Repsol,REPYY,,Oil & Gas Producers
+30,Sacyr,SYRVY,,Construct.&Materials
+31,Siemens Gamesa Renewable Energy,GCTAY,,Alternative Energy
+32,Tecnicas Reunidas,TNISY,,Industrial Engineer.
